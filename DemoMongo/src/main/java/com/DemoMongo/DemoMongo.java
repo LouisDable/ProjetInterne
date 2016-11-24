@@ -7,6 +7,7 @@ public class DemoMongo {
 	
 	public static void main(String[] args) {
 		System.out.println("ok");
+		int i=0;
 	}
 
 }
