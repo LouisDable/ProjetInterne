@@ -6,7 +6,7 @@ public class DemoMongo {
 	private static String nameDb = "db_PI";
 	
 	public static void main(String[] args) {
-		System.out.println("Hello team");
+		System.out.println("Hello team from pharell");
 	}
 
 }
