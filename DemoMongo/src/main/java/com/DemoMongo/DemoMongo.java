@@ -6,8 +6,7 @@ public class DemoMongo {
 	private static String nameDb = "db_PI";
 	
 	public static void main(String[] args) {
-		OperationsCRUD op = new OperationsCRUD(adresse,nameDb);
-		op.createCollection("TestCol");
+		System.out.println("ok");
 	}
 
 }
